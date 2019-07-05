@@ -90,6 +90,11 @@ a.download {
     flex: 1fr;
     word-break: keep-all;
     margin-left: 3rem;
+    @include media-query($on-palm) {
+        padding-top: 4rem;
+        flex-wrap: wrap;
+        margin-left: 0;
+    }
 }
 
 .download-wrapper {
