@@ -20,11 +20,11 @@ feed:
   en: /feed.xml
   fr: /flux.xml
 baseurl: "/dodge-chrome" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+url: "http://localhost" # the base hostname & protocol for your site
+twitter_username: song9446
 github_username:  song9446
 
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-slate
+# theme: minimal
