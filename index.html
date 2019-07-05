@@ -1,10 +1,11 @@
 ---
 layout: default
-ref: index
+ref: index-temp
 lang: en
 ---
 
 <div class="home">
+  {% include locale-fixing.html %}
 
   <h1 class="page-heading">Posts</h1>
 
@@ -21,6 +22,6 @@ lang: en
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed-en.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

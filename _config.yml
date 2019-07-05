@@ -14,11 +14,11 @@ description:
   en: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
   ko: Écrivez une super description de votre nouveau site ici. Vous pouvez modifier cette ligne dans _config.yml. Elle apparaîtra dans la balise meta description (pour les résultats sur Google) et dans le fil RSS feed.xml.
 index:
-  en:
-  ko: accueil.html
+  en: index-en.html
+  ko: index-ko.html
 feed:
-  en: /feed.xml
-  ko: /flux.xml
+  en: /feed-en.xml
+  ko: /feed-ko.xml
 baseurl: "/dodge-chrome" # the subpath of your site, e.g. /blog
 url: "http://localhost" # the base hostname & protocol for your site
 twitter_username: song9446
