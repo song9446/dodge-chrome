@@ -2,31 +2,112 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    // border-top: 5px solid $grey-color-dark;
+    //border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    padding-top: 18rem;
+    text-align: center; 
+    @include media-query($on-palm) {
+        padding-top: 6rem;
+    }
 }
 
-.site-title {
-    font-size: 26px;
-    font-weight: 300;
-    line-height: 56px;
-    letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
 
+.site-title {
+    letter-spacing: -1px;
+    color: $text-color;
+    text-decoration: none;
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $text-color;
+    }
+    &:hover {
+        color: $text-color;
+        text-decoration: none;
+    }
+}
+
+
+a.download {
+    display: inline-block;
+    text-align: center;
+    color: $text-color;
+    text-decoration: none;
+    &:visited {
+        color: $text-color;
+    }
+    &:hover {
+        color: $text-color;
+    }
+    svg {
+        display: inline-block;
+        width: 48px;
+        height: 48px;
+        vertical-align: middle;
+
+        path {
+            fill: $text-color;
+        }
+    }
+
+    img {
+        height: 48px;
+    }
+}
+
+.feature-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+    flex-wrap: none;
+    padding-top: 8rem;
+    @include media-query($on-palm) {
+        padding-top: 4rem;
+        flex-wrap: wrap;
+    }
+}
+.feature-entry {
+    display: inline-block;
+    text-align: center;
+    svg {
+        display: inline-block;
+        width: 48px;
+        height: 48px;
+        vertical-align: middle;
+
+        path {
+            fill: $text-color;
+        }
+    }
+    span {
+        margin-top: 2rem;
+        display: block;
+    }
+    flex: 1fr;
+    word-break: keep-all;
+    margin-left: 3rem;
+}
+
+.download-wrapper {
+    text-align: center;
+}
+
+table.download-table {
+    margin-top: 2rem;
+    display:inline-block;
+    td { 
+        text-align: center;
+        border: 0;
     }
 }
 
 .site-nav {
-    float: right;
-    line-height: 56px;
+    float: left;
+    line-height: 6.5rem;
 
     .menu-icon {
         display: none;
