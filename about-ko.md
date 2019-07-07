@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 소개
-permalink: /about/
+permalink: /about-ko/
 ref: about
 lang: ko
 ---
