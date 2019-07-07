@@ -1,0 +1,2 @@
+0.0.1
+https://github.com/song9446/dodge-chrome/releases/download/0.0.1/mini_installer.exe
