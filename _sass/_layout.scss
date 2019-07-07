@@ -110,6 +110,25 @@ table.download-table {
     }
 }
 
+.site-nav-bottom {
+    float: left;
+    line-height: 6.5rem;
+
+    .menu-icon {
+        display: none;
+    }
+
+    .page-link {
+        color: $text-color;
+        line-height: $base-line-height;
+
+        // Gaps between nav items, but not on the last one
+        &:not(:last-child) {
+            margin-right: 20px;
+        }
+    }
+}
+
 .site-nav {
     float: left;
     line-height: 6.5rem;
