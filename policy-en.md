@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Website policy
-permalink: /policy/
+permalink: /policy-en/
 ref: policy
 lang: en
 ---

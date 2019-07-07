@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 사이트 이용약관
-permalink: /policy/
+permalink: /policy-ko/
 ref: policy
 lang: ko
 ---

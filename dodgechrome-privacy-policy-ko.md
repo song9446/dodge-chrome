@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 닷지크롬 개인정보 처리방침 
-permalink: /privacy-policy/
+permalink: /privacy-policy-ko/
 ref: privacy-policy
 lang: ko
 ---

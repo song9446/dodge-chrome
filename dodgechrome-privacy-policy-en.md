@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy policy of DodgeChrome
-permalink: /privacy-policy/
+permalink: /privacy-policy-en/
 ref: privacy-policy
 lang: en
 ---
