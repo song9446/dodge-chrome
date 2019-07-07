@@ -69,4 +69,4 @@ If you are concerned about cookies tracking your movements on the Internet then 
 Users will be notified of any privacy policy changes on this page.
 
 ### Contact information
-If you have questions about this privacy policy, please use our site's feedback form or contact us at song9446@unist.ac.kr
+If you have questions about this privacy policy, please use our site's feedback form or contact us at {{ site.email }}
