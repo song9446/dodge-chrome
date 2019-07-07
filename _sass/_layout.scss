@@ -38,6 +38,8 @@
 a.download {
     display: inline-block;
     text-align: center;
+    margin: 1rem;
+    flex-shrink: 0;
     color: white;
     background-color: #594ba4;
     border-radius: 0.5rem;
@@ -107,6 +109,10 @@ a.download {
 
 .download-wrapper {
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 table.download-table {
