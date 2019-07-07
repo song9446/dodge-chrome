@@ -19,6 +19,9 @@ index:
 feed:
   en: /feed-en.xml
   ko: /feed-ko.xml
+about:
+  en: /about-en.html
+  ko: /about-ko.html
 baseurl: "/dodge-chrome" # the subpath of your site, e.g. /blog
 url: "http://localhost" # the base hostname & protocol for your site
 twitter_username: song9446
