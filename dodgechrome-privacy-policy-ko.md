@@ -2,7 +2,7 @@
 layout: page
 title: 닷지크롬 개인정보 처리방침 
 permalink: /privacy-policy/
-ref: privacy-olicy
+ref: privacy-policy
 lang: ko
 ---
 
