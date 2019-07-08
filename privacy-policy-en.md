@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy policy of DodgeChrome
+title: Privacy policy 
 permalink: /privacy-policy-en/
 ref: privacy-policy
 lang: en
@@ -8,7 +8,7 @@ lang: en
 
 ## Effective date: July 05, 2019
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information on our service DodgeChrome.
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information on our service.
 
 ## What personal information do we collect from the people that use our service?
 You may be asked to enter your email address or other details to help you with your experience when submitting a feedback, and, if in the future registration is implemented on the site, upon registration.

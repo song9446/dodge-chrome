@@ -7,14 +7,14 @@
 
 # Site settings
 title:
-  en: Dodge Chrome
-  ko: 닷지 크롬
+  en: Meerkat Browser
+  ko: 미어캣 브라우저
 email: eunchul.dev@gmail.com
 chromium_version: 77.0.3844.0
-dodgechrome_version: 0.0.1
+product_version: 0.0.1
 description:
-  en: bypass blocked websites with Dodge Chrome - fastest and safest!
-  ko: 닷지크롬으로 차단된 사이트를 우회하세요 - 가장 빠르고 안전합니다!
+  en: bypass blocked websites with Meerkat Browser - fastest and safest!
+  ko: 미어캣 브라우저로로 차단된 사이트를 우회하세요 - 가장 빠르고 안전합니다!
 index:
   en: index-en.html
   ko: index-ko.html
@@ -24,7 +24,7 @@ feed:
 about:
   en: /about-en.html
   ko: /about-ko.html
-baseurl: "/dodge-chrome" # the subpath of your site, e.g. /blog
+baseurl: "/meerkat-browser" # the subpath of your site, e.g. /blog
 url: "http://localhost" # the base hostname & protocol for your site
 twitter_username: eunchul_dev
 github_username:  song9446

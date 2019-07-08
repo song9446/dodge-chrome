@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 닷지크롬 개인정보 처리방침 
+title: 개인정보 처리방침 
 permalink: /privacy-policy-ko/
 ref: privacy-policy
 lang: ko
